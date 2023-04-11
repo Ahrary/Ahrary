@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 
 <small>❯❯ You can follow me on: ↓</strong>
 
-[Medium](https://medium.com/@ahrary)
-
-[Instagram](https://www.instagram.com/ahraary/)
-
 [![Twitter](https://img.shields.io/twitter/follow/ahraary?label=%40ahraary&style=social)][t] [![Github](https://img.shields.io/github/followers/ahrary?style=social&label=Follow)][g] ![](https://komarev.com/ghpvc/?username=ahrary&style=flat-square&color=lightgrey)
 
 
