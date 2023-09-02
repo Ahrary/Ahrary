@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <small>❯❯ You can follow me on: ↓</strong>
 
-[![Twitter](https://img.shields.io/twitter/follow/ahraary?label=%40ahraary&style=social)][t] [![Github](https://img.shields.io/github/followers/ahrary?style=social&label=Follow)][g] ![](https://komarev.com/ghpvc/?username=ahrary&style=flat-square&color=lightgrey)
+[![X](https://img.shields.io/twitter/follow/ahraary?label=%40ahraary&style=social)][x] [![Github](https://img.shields.io/github/followers/ahrary?style=social&label=Follow)][g] ![](https://komarev.com/ghpvc/?username=ahrary&style=flat-square&color=lightgrey)
 
 
-[t]: https://twitter.com/ahraary
+[x]: https://x.com/ahraary
 [g]: https://github.com/ahrary
