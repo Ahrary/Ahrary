@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahrary&show_icons=true&theme=slateorange)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahrary&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahrary&layout=compact)
