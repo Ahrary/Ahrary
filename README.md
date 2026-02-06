@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Frontend Engineer with 6+ years of experience building performant, accessible, and scalable web applications using React.js and Next.js. Specialized in TypeScript-based frontend architectures, headless CMS integrations, and content-driven platforms. Strong focus on UI/UX design systems and production-ready frontend engineering. Experienced in distributed teams, actively participating in code reviews and async collaboration.
+I am a Frontend Engineer with 6+ years of experience building mobile-first, performant, accessible, and scalable web applications using React.js and Next.js. Specialized in TypeScript-based frontend architectures, headless CMS integrations, and content-driven platforms. Strong focus on UI/UX design systems and production-ready frontend engineering. Experienced in distributed teams, actively participating in code reviews and async collaboration.
 <!--
 **Ahrary/Ahrary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
